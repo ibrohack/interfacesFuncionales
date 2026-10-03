@@ -1,5 +1,7 @@
 # Interfaces funcionales y clases anónimas
+Aritz Navarro - Brayan Romero - Ivan Vivanco
 
+## Repositorio GitHub
 Repositorio: https://github.com/ibrohack/interfacesFuncionales
 
 ## Estructura
